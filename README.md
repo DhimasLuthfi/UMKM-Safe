@@ -64,10 +64,7 @@ Proyek ini dirancang menggunakan pendekatan Multi-Stage Pipeline (2-Stage LLM Pr
 
 ## Cara Menggunakan Proyek di Langflow
 
-1. Clone Repository ini:
-   ```bash
-   git clone https://github.com/USERNAME_ANDA/UMKM-Safe.git
-   ```
+1. Clone Repository
 
 2. Impor Flow ke Langflow Desktop:
    * Buka aplikasi IBM Langflow Desktop.
